@@ -13,7 +13,7 @@ Aplicación de escritorio desarrollada en Java que permite gestionar turnos, pac
 
 ## Muestra del sistema
 
-[![Consultorio Odontológico](https://img.youtube.com/vi/SKedWtAPs8Q/0.jpg)](https://youtu.be/SKedWtAPs8Q)
+[![Consultorio Odontológico](https://img.youtube.com/vi/SKedWtAPs8Q/0.jpg)](https://www.youtube.com/watch?v=SKedWtAPs8Q)
 
 ## Requisitos
 
