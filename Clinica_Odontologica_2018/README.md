@@ -25,7 +25,7 @@ Aplicación de escritorio desarrollada en Java que permite gestionar turnos, pac
 1. Descargar carpeta del proyecto o clonar el repositorio:
 
 ```javascript
-git clone https://github.com/festev/Consultorio-odontologico-2018.git
+git clone https://github.com/festev/Proyectos.git
 ```
 2. Configurar MySQL:
 	a. Crear una conexión en MySQL. Se recomienda un servicio local, puerto '3306', username 'root' y sin contraseña. En caso de cambiar estos parámetros, se debe modificar en `config.properties`.
