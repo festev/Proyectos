@@ -28,8 +28,8 @@ Aplicación de escritorio desarrollada en Java que permite gestionar turnos, pac
 git clone https://github.com/festev/Proyectos.git
 ```
 2. Configurar MySQL:
-	a. Crear una conexión en MySQL. Se recomienda un servicio local, puerto '3306', username 'root' y sin contraseña. En caso de cambiar estos parámetros, se debe modificar en `config.properties`.
-	b. Ejecutá los scripts que están en la carpeta `scripts_sql`:
-	- Primero: `CreacionBaseDeDatos.sql`
-	-  Segundo: `InsertarValores.sql`
+	1. Crear una conexión en MySQL. Se recomienda un servicio local, puerto '3306', username 'root' y sin contraseña. En caso de cambiar estos parámetros, se debe modificar en `config.properties`.
+	2. Ejecutá los scripts que están en la carpeta `scripts_sql`:
+		- Primero: `CreacionBaseDeDatos.sql`
+		- Segundo: `InsertarValores.sql`
 3. Ejecutar el JAR principal: `ConsultorioApp.jar`.
